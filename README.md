@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://niranjanpersonalportfolio.netlify.app/](https://niranjanpersonalportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@niranjan7](https://hashnode.com/@niranjan7)
+- 📝 Sometime I write articles on [https://hashnode.com/@niranjan7](https://hashnode.com/@niranjan7)
 
 - 💬 Ask me about **Front-End**
 
