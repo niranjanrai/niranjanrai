@@ -1,5 +1,5 @@
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://niranjanpersonalportfolio.netlify.app/)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://niranjanrai.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm Niranjan Rai</h1>
