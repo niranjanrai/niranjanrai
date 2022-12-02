@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/niranjanrai9" target="blank"><img src="https://img.shields.io/twitter/follow/niranjanrai9?logo=twitter&style=for-the-badge" alt="niranjanrai9" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React Js and Some backend topics**
 
 - 👨‍💻 All of my projects are available at [https://niranjanpersonalportfolio.netlify.app/](https://niranjanpersonalportfolio.netlify.app/)
 
